@@ -152,8 +152,8 @@
     width: 80%;
     height: 600px;
     border: solid 1px #ccc;
-    min-width: 215px;
-    max-height: 605px;
+    min-width: 210px;
+    max-height: 603px;
   }
 
   img {
@@ -545,7 +545,7 @@
     max-width: 75%;
     padding: 0 0px 40px 0px;
     margin: auto;
-    min-width: 380px;
+    min-width: 350px;
 }
 
 #bootstrap-overrides #modaltop {
