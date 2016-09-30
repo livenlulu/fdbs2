@@ -147,10 +147,10 @@
   #map {
     margin-top: 0px;
     width: 80%;
-    height: 603px;
+    height: 600px;
     border: solid 1px #ccc;
     min-width: 205px;
-
+    max-height: 605px;
   }
 
   img {
