@@ -3,6 +3,9 @@
     font-size: 13px;
     overflow-x: hidden;
     font-weight: 300;
+  }
+
+  body {
     zoom: 86%;
   }
 
@@ -149,7 +152,7 @@
     width: 80%;
     height: 600px;
     border: solid 1px #ccc;
-    min-width: 205px;
+    min-width: 235px;
     max-height: 605px;
   }
 
@@ -268,7 +271,7 @@
   border-radius: 2px;
   padding: 10px;
   font-family: Montserrat;
-  min-width: 140px;
+  min-width: 160px;
 }
 
 .btn-group {
@@ -286,7 +289,7 @@
   width: 72%;
   font-family: Raleway;
   overflow:scroll;
-  min-width: 140px;
+  min-width: 160px;
 }
 
 
@@ -438,7 +441,7 @@
   opacity: .9;
   float: left;
   border-radius: 2px;
-  min-width: 140px;
+  min-width: 160px;
   overflow:scroll;
   margin-bottom: 0px;
   border: 1px solid #D5DBDB;
@@ -505,7 +508,7 @@
   font-family: Abel;
   text-align: left;
   font-size: 12px;
-  min-width: 140px;
+  min-width: 160px;
   float: left;
   margin-bottom: 0px;
 }
@@ -542,6 +545,7 @@
     max-width: 75%;
     padding: 0 0px 40px 0px;
     margin: auto;
+    min-width: 400px;
 }
 
 #bootstrap-overrides #modaltop {
